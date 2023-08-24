@@ -1,0 +1,8 @@
+Pyhton 3
+scipy
+numpy
+pandas
+sk-learn
+tensorflow (1.4 version)
+import xlrd
+import xlwt
